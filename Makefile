@@ -1,4 +1,4 @@
-PKG = template
+PKG = michen00
 
 PYTHON = python3
 PYTHON_DASH_M = $(PYTHON) -m
