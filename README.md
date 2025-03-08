@@ -3,16 +3,16 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=michen00&show_icons=true&include_all_commits=true&theme=nightowl&show=reviews,prs_merged,prs_merged_percentage"
+      srcset="https://github-readme-stats.vercel.app/api?username=michen00&show_icons=true&include_all_commits=true&show=prs_merged%2Cprs_merged_percentage%2Creviews&theme=nightowl"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=michen00&show_icons=true&include_all_commits=true&theme=transparent&show=reviews,prs_merged,prs_merged_percentage"
+      srcset="https://github-readme-stats.vercel.app/api?username=michen00&show_icons=true&include_all_commits=true&show=prs_merged%2Cprs_merged_percentage%2Creviews&theme=transparent"
       media="(prefers-color-scheme: light)"
     />
     <img
       alt="michen00's GitHub stats"
-      src="https://github-readme-stats.vercel.app/api?username=michen00&show_icons=true&include_all_commits=true&theme=transparent&show=reviews,prs_merged,prs_merged_percentage"
+      src="https://github-readme-stats.vercel.app/api?username=michen00&show_icons=true&include_all_commits=true&show=prs_merged%2Cprs_merged_percentage%2Creviews&theme=transparent"
       height=200
       align="center"
     />
