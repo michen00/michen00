@@ -11,4 +11,4 @@
   <img src="./profile/wakatime.svg" alt="michen00's WakaTime stats" />
 </a>
 
-<img src="https://algora.io/og/user/michen00" />
+<img src="https://algora.io/og/user/michen00" alt="Algora profile stats" />
