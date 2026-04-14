@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Michael I Chen's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 66, Total Commits  : 2352, Total PRs: 124, Total PRs Merged: 87, Merged PRs Percentage: 70.16, Total PRs Reviewed: 52, Total Issues: 19, Contributed to (last year): 12</desc>
+        <desc id="descId">Total Stars Earned: 66, Total Commits  : 2355, Total PRs: 124, Total PRs Merged: 88, Merged PRs Percentage: 70.97, Total PRs Reviewed: 52, Total Issues: 19, Contributed to (last year): 12</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 74.48959316074442;
+        stroke-dashoffset: 74.47254956170893;
       }
     }
   
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged"
-      >87</text>
+      >88</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >70.16 %</text>
+      >70.97 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
