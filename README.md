@@ -6,14 +6,14 @@
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=michen00&custom_title=michen00%27s%20GitHub%20stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=nightowl">
         <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=michen00&custom_title=michen00%27s%20GitHub%20stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=transparent">
-        <img alt="michen00's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=michen00&custom_title=michen00%27s%20GitHub%20stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=transparent" width="100%">
+        <img alt="michen00's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=michen00&custom_title=michen00%27s%20GitHub%20stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=transparent">
       </picture>
     </td>
     <td width="40%" valign="top">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=michen00&layout=compact&langs_count=100&theme=nightowl">
         <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=michen00&layout=compact&langs_count=100&theme=transparent">
-        <img alt="michen00's top languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=michen00&layout=compact&langs_count=100&theme=transparent" width="100%">
+        <img alt="michen00's top languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=michen00&layout=compact&langs_count=100&theme=transparent">
       </picture>
     </td>
   </tr>
