@@ -22,7 +22,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/wakatime?username=michen00&layout=compact&custom_title=michen00%27s%20WakaTime%20stats%20%28last%20year%29&theme=nightowl">
   <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/wakatime?username=michen00&layout=compact&custom_title=michen00%27s%20WakaTime%20stats%20%28last%20year%29&theme=transparent">
-  <img alt="michen00's WakaTime stats" src="https://github-stats-extended.vercel.app/api/wakatime?username=michen00&layout=compact&custom_title=michen00%27s%20WakaTime%20stats%20%28last%20year%29&theme=transparent" width="100%">
+  <img alt="michen00's WakaTime stats" src="https://github-stats-extended.vercel.app/api/wakatime?username=michen00&layout=compact&custom_title=michen00%27s%20WakaTime%20stats%20%28last%20year%29&theme=transparent">
 </picture>
 
-<img src="https://algora.io/og/user/michen00" alt="Algora profile stats" width="100%" />
+<img src="https://algora.io/og/user/michen00" alt="Algora profile stats"/>
