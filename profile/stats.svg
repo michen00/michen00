@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Michael I Chen&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 72, Total Commits  (last year) : 1653, Total PRs: 201, Total Issues: 35, Contributed to (last year): 13</desc>
+        <desc id="descId">Total Stars Earned: 72, Total Commits  (last year) : 1651, Total PRs: 201, Total Issues: 35, Contributed to (last year): 13</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 52.232304576601344;
+        stroke-dashoffset: 52.2346857904651;
       }
     }
   
