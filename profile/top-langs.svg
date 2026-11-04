@@ -138,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="166.63"
+          width="166.58"
           height="8"
           fill="#DA5B0B"
         />
@@ -146,7 +146,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="166.63"
+          x="166.58"
           y="0"
           width="29.41"
           height="8"
@@ -156,9 +156,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="196.04"
+          x="195.99"
           y="0"
-          width="26.3"
+          width="26.29"
           height="8"
           fill="#5a6986"
         />
@@ -166,9 +166,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="222.34"
+          x="222.28"
           y="0"
-          width="16.74"
+          width="16.73"
           height="8"
           fill="#89e051"
         />
@@ -176,7 +176,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="239.08"
+          x="239.01"
           y="0"
           width="17.47"
           height="8"
@@ -186,9 +186,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="246.55"
+          x="246.48"
           y="0"
-          width="13.46"
+          width="13.52"
           height="8"
           fill="#3178c6"
         />
@@ -199,7 +199,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Jupyter Notebook 66.65%
+        Jupyter Notebook 66.63%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
@@ -213,14 +213,14 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#5a6986" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PureBasic 10.52%
+        PureBasic 10.51%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#89e051" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shell 6.70%
+        Shell 6.69%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
@@ -234,7 +234,7 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 1.38%
+        TypeScript 1.41%
       </text>
     </g>
   </g></g>
